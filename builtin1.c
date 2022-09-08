@@ -12,7 +12,6 @@ int _myhistory(info_t *info)
 	print_list(info->history);
 	return (0);
 }
-
 /**
  * unset_alias - sets alias to string
  * @info: parameter struct
