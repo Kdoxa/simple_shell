@@ -1,5 +1,4 @@
 #include "shell.h"
-
 /**
  * interactive - returns true if shell is interactive mode
  * @info: struct address
@@ -38,7 +37,6 @@ int _isalpha(int c)
 	else
 		return (0);
 }
-
 /**
  * _atoi - converts a string to an integer
  * @s: the string to be converted
