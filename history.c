@@ -52,7 +52,6 @@ int write_history(info_t *info)
 	close(fd);
 	return (1);
 }
-
 /**
  * read_history - reads history from file
  * @info: the parameter struct
