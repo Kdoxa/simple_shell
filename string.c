@@ -17,7 +17,6 @@ int _strlen(char *s)
 		i++;
 	return (i);
 }
-
 /**
  * _strcmp - performs lexicogarphic comparison of two strangs.
  * @s1: the first strang
