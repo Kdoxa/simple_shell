@@ -21,7 +21,6 @@ int is_cmd(info_t *info, char *path)
 	}
 	return (0);
 }
-
 /**
  * dup_chars - duplicates characters
  * @pathstr: the PATH string
