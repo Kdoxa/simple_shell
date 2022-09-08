@@ -28,7 +28,6 @@ int _myexit(info_t *info)
 	info->err_num = -1;
 	return (-2);
 }
-
 /**
  * _mycd - changes the current directory of the process
  * @info: Structure containing potential arguments. Used to maintain
