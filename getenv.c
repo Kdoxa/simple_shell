@@ -16,7 +16,6 @@ char **get_environ(info_t *info)
 
 	return (info->environ);
 }
-
 /**
  * _unsetenv - Remove an environment variable
  * @info: Structure containing potential arguments. Used to maintain
